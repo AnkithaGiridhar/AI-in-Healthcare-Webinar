@@ -1,1 +1,2 @@
 # AI-in-Healthcare-Webinar
+These files pertain to the AI in Healthcare Webinar conducted on the 13th of September, 2020. They include the ppt shown at the beginning, the two notebooks worked on, and the data used. The data and the problem statement were taken from the Healthcare Analytics hackathon conducted by Analytics Vidhya from the 17th to the 19th of July, 2020. The original hackathon can be accessed using this link - https://datahack.analyticsvidhya.com/contest/janatahack-healthcare-analytics/#ProblemStatement
